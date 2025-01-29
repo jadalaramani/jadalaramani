@@ -12,8 +12,11 @@ A passionate DevOps Professional with 3 years of hands-on experience in AWS Clou
 📢 Check out my full blog on Medium https://medium.com/@ramanijadala3118
 
 # 📩 Let's Connect!
+
 🔗 LinkedIn: www.linkedin.com/in/jadala-ramani
+
 📧 Email: ramanijadala3118@gmail.com
+
 📝 Blog: https://medium.com/@ramanijadala3118
 
- # 🌟 Let's connect and build something amazing together!  
+ # 🌟 Let's connect and build something amazing together in cloud and Devops!  
