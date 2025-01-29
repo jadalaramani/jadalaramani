@@ -5,4 +5,15 @@ A passionate DevOps Professional with 3 years of hands-on experience in AWS Clou
 
 🚀 **I am open to collaborating** on projects related to **DevOps, cloud computing, automation, and CI/CD pipelines**. I am always eager to **learn new technologies** and contribute to innovative solutions that drive efficiency and scalability in cloud infrastructure.  
 
-Let's connect and build something amazing together!  
+# 📚 Recent Blog Posts 
+✍️ Cloud Computing  
+✍️Public Cloud vs Private Cloud vs Virtual Private Cloud (VPC)
+ 
+📢 Check out my full blog on Medium https://medium.com/@ramanijadala3118
+
+# 📩 Let's Connect!
+🔗 LinkedIn: www.linkedin.com/in/jadala-ramani
+📧 Email: ramanijadala3118@gmail.com
+📝 Blog: https://medium.com/@ramanijadala3118
+
+ # 🌟 Let's connect and build something amazing together!  
