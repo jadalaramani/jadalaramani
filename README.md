@@ -37,7 +37,7 @@ A passionate DevOps Professional with 3 years of hands-on experience in AWS Clou
 
  # 🌟 Let's connect and build something amazing together in cloud and Devops! 
  
-# Scoial media
+# Social media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadala-ramani)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ramanijadala3118)
